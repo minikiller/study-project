@@ -1,2 +1,2 @@
 [workspace]
-members=["hello","guess"]
+members=["hello","guess","variant","owner","iter","structer"]

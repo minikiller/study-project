@@ -24,5 +24,10 @@ rustc main.rs
 ## cargo
 
 ```
-rustc main.rs
+cargo check
 ```
+
+```
+cargo build --release
+```
+
